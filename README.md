@@ -1,4 +1,5 @@
 # RXUtils
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/liuchao/RXUtils.svg?style=flat)](https://travis-ci.org/liuchao/RXUtils)
 [![Version](https://img.shields.io/cocoapods/v/RXUtils.svg?style=flat)](https://cocoapods.org/pods/RXUtils)
@@ -27,3 +28,6 @@ liuchao, liuchao@runxgroup.com
 ## License
 
 RXUtils is available under the MIT license. See the LICENSE file for more info.
+=======
+RXUtils is some utils for Runx
+>>>>>>> 6ea044fc9a29192eedb8ccf33375cf094a2458ee
