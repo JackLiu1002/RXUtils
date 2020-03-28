@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RXUtils'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RXUtils.'
+  s.summary          = 'RXUtils is some utils for Runx'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/liuchao/RXUtils'
+  s.homepage         = 'https://github.com/JackLiu1002/RXUtils'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liuchao' => 'liuchao@runxgroup.com' }
-  s.source           = { :git => 'https://github.com/liuchao/RXUtils.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/JackLiu1002/RXUtils.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
