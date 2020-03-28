@@ -1,0 +1,22 @@
+{
+  "name": "RXUtils",
+  "version": "0.1.0",
+  "summary": "A short description of RXUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuchao/RXUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuchao": "liuchao@runxgroup.com"
+  },
+  "source": {
+    "git": "https://github.com/liuchao/RXUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RXUtils/Classes/**/*"
+}

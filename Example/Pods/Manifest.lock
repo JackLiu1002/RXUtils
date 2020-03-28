@@ -1,0 +1,16 @@
+PODS:
+  - RXUtils (0.1.0)
+
+DEPENDENCIES:
+  - RXUtils (from `../`)
+
+EXTERNAL SOURCES:
+  RXUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RXUtils: 0e068559a9e8be66652b065e6efb30df7e2e1788
+
+PODFILE CHECKSUM: 7e37bbf80eedfd09e9a4d6343463069a3de4e5de
+
+COCOAPODS: 1.8.4
